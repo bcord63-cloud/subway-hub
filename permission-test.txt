@@ -1,1 +1,0 @@
-Subway Hub write permission test.
